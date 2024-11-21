@@ -1,3 +1,5 @@
+![Alt text]()
+
 # Auto-Insurance-Analysis
 
 **Project Description:**  
